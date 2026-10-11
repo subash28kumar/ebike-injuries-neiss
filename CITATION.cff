@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "E-bike injuries among U.S. children, 2019-2025: national estimates from emergency room reports using AI-read injury stories (analysis code)"
+authors:
+  - family-names: Kumar
+    given-names: Subash
+    orcid: "https://orcid.org/0009-0003-6661-3424"
+version: 1.0.0
+date-released: 2026-10-11
+repository-code: "https://github.com/subash28kumar/ebike-injuries-neiss"
+license: MIT
+keywords:
+  - e-bike
+  - e-scooter
+  - micromobility
+  - child injury
+  - NEISS
+  - text classification
